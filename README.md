@@ -13,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+![waving](https://capsule-render.vercel.app/api?type=waving&color=0:D7EDC0,100:BEDEF5)
