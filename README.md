@@ -21,23 +21,13 @@
         <img src="https://img.shields.io/badge/notion-%232C5283.svg?style=for-the-badge&logo=Notion&logoColor=white">
      </div>
 
+## 🐈‍⬛ Github Stats 🐈‍⬛
+<div align=center>
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoooungeun&show_icons=true&theme=radical)
+
+</div>
 
 ![waving](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:D7EDC0,100:BEDEF5&height=130)
-
-<div align="left">
-<!--
-**yooongeun/yooongeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
