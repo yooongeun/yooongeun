@@ -21,7 +21,13 @@
         <img src="https://img.shields.io/badge/notion-%232C5283.svg?style=for-the-badge&logo=Notion&logoColor=white">
      </div>
 
-## 🐈‍⬛ Github Stats 🐈‍⬛
+## 🤖 Algorithm 🤖
+<div align=center>
+ <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=leongeun">
+</div>
+<br>
+
+## ✨ Github Stats ✨
 <div align=center>
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoooungeun&show_icons=true&theme=radical)
