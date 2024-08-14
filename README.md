@@ -1,5 +1,8 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&color=0:ECE1F0,100:FACCCB&height=130)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=45&duration=3500&pause=5&color=39B5A9&center=true&random=false&width=1000&height=100&lines=Welcome+to+youngeun's+Github!%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oleo+Script&size=45&duration=3500&pause=5&color=39B5A9&center=true&random=false&width=1000&height=100&lines=Welcome+to+youngeun's+Github!%F0%9F%91%8B)](https://git.io/typing-svg)
+
+![waving](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:D7EDC0,100:BEDEF5&height=130)
+
 <div align="left">
 <!--
 **yooongeun/yooongeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
