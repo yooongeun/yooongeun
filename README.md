@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&color=0:ECE1F0,100:FACCCB&height=90)
+![waving](https://capsule-render.vercel.app/api?type=waving&color=0:ECE1F0,100:FACCCB&height=150)
 <!--
 **yooongeun/yooongeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 
 
-![waving](https://capsule-render.vercel.app/api?type=waving&color=0:D7EDC0,100:BEDEF5)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:D7EDC0,100:BEDEF5)
