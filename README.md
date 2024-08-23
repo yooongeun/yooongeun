@@ -1,4 +1,5 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&color=0:ECE1F0,100:FACCCB&height=130)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oleo+Script&size=50&duration=3500&pause=7&color=FFA500&center=true&random=false&width=1000&height=100&lines=Welcome+to+youngeun's+Github!)](https://git.io/typing-svg)
 
 ## 💻 Tech Stack 💻
@@ -20,6 +21,7 @@
         <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">
         <img src="https://img.shields.io/badge/notion-%232C5283.svg?style=for-the-badge&logo=Notion&logoColor=white">
      </div>
+
 
 ## 🤖 Algorithm 🤖
 <div align=center>
